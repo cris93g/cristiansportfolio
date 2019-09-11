@@ -1,0 +1,18 @@
+.Nav {
+  display: flex;
+  width: 100vw;
+  height: 15vh;
+  background-color: rgb(17, 8, 36);
+  color: white;
+}
+
+.navTitle {
+  height: 100%;
+  width: 45%;
+}
+
+.navLinks {
+  height: 100%;
+  width: 55%;
+  display: flex;
+}
